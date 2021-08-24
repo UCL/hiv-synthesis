@@ -3,7 +3,7 @@ layout: page
 title: Code
 ---
 
-Download the [latest version of the model](/assets/hiv-synthesis.zip).
+Download the [latest version of the model]({{site.baseurl}}/assets/hiv-synthesis.zip).
 
 ## Running the model
 

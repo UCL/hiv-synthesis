@@ -3,15 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: HIV Synthesis
 ---
-
-# HIV Synthesis
 
 This is the site of the HIV Synthesis model developed at UCL. These pages are under construction!
 
 You can:
 - read [more about the model](about.html)
-- download and run the [latest release of the source code]()
+- download and run the [latest release of the source code](code.html)
 
 For more information, contact [Andrew Phillips](mailto:andrew.phillips@ucl.ac.uk).
 

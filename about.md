@@ -7,7 +7,7 @@ The model is an individual-based stochastic simulation model including
 sexual behaviour, HIV transmission, HIV progression and effects of ART
 within a sub-Saharan African context.
 
-Being “individual-based” means that each time the model is run
+Being "individual-based" means that each time the model is run
 it generates a data set of the simulated lifetime adult experience
 of a population of people thought to reflect a setting
 (e.g. a country, district, town, or other small area).
